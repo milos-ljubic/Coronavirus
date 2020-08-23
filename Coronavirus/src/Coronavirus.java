@@ -4,7 +4,7 @@ public class Coronavirus {
 
 	public static void main(String[] args) {
 
-//     	happy path example, 3*3 matrix
+//    	 	happy path example, 3*3 matrix
 		char[][] world = { { '#', '#', '#' }, { '#', '#', '#' }, { '#', '#', '#' } };
 		int[] firstInfected = { 1, 1 };
 
